@@ -1,4 +1,4 @@
-# Password-Manager
+# Python-Password-Manager
 # Python Password Manager
 
 A basic password manager implemented in Python for educational purposes. This project demonstrates storing and retrieving passwords using a simplified encryption method (Caesar cipher) and SQLite database.
